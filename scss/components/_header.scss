@@ -18,11 +18,11 @@
     gap: 30px;
     align-items: center;
     justify-content: space-between;
-}
-
-& :hover,
-& :focus {
-    color: var(--accent-text-color);
+    
+    & :hover,
+    & :focus {
+        color: var(--accent-text-color);
+    }
 }
 
 .header__link {
